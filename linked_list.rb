@@ -58,6 +58,10 @@ class LinkedList
     current_node.data
   end
 
+  def delete(data)
+    
+  end
+
   private
 
   def last_node
